@@ -1,0 +1,14 @@
+table,th,td
+{
+    border: 2px solid black;
+}
+td
+{
+    width: 50px;
+    font-size: 26px;
+}
+th
+{
+    background-color: cadetblue;
+    font-size: 20px;
+}
